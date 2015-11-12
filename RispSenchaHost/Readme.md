@@ -3,7 +3,7 @@
 This folder is primarily a container for the top-level pieces of the application.
 While you can remove some files and folders that this application does not use,
 be sure to read below before deciding what can be deleted and what needs to be
-kept in source control.
+kept in source control.ddd
 
 The following files are all needed to build and load the application.
 
